@@ -33,6 +33,11 @@ I'm passionate about email marketing, and I use this space to share my projects,
 
 
 ---
+| Project | Description | Link |
+|---------|-------------|------|
+| 🐻 IceCreamForBears | Sample email welcome flow for an ice cream brand | [Repo](https://github.com/yourusername/icfb) |
+| 📊 Physics Lab Reports | Applied Physics lab work with analysis | [Repo](https://github.com/yourusername/physics-labs) |
+| 🌐 Portfolio Site | My personal portfolio built with GitHub Pages | [Repo](https://github.com/yourusername/portfolio) |
 
 ## ✨ Fun Fact
 [Something lighthearted about you — e.g., “I once made an ice cream brand’s welcome email flow just for fun 🍦”]
